@@ -23,5 +23,4 @@ Other: GitHub, GitHub Desktop, Postman, Jira
 📧 rachanapatel0406@gmail.com
 💼 [LinkedIn] https://www.linkedin.com/in/rachana-gardas-4445b41b2/
 📄 [View My Resume] 
-[Rachana Data Analyst.pdf](https://github.com/user-attachments/files/19884314/Rachana.Data.Analyst.pdf)
-
+[Rachana_DataEngineer.pdf](https://github.com/user-attachments/files/19920148/Rachana_DataEngineer.pdf)
